@@ -19,3 +19,7 @@ O teste identifica qual versão apresenta melhor desempenho, fornecendo ao time 
 Para instalar as dependências, execute:
 
     pip install -r requirements.txt
+
+
+## Autores
+- [@Valenaantunes](https://github.com/Valenaantunes)
